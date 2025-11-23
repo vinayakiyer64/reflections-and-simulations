@@ -1,19 +1,22 @@
 ---
-title: "About"
+title: "Reflections and Simulations"
+subtitle: ""
+title-block-banner: false
 image: profile.jpg
 about:
   template: jolla
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://x.com/vinayak_econ
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/vinayak-iyer1
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/vinayakiyer64
 
 ---
 
-About this blog
+This is just a blog on random topics that I find interesting and have some thoughts on. This is also a 
+way for me to get back into the habit of thinking harder and writing.

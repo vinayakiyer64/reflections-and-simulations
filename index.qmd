@@ -1,5 +1,5 @@
 ---
-title: "reflections-and-simulations"
+title: "Reflections and Simulations"
 listing:
   contents: posts
   feed: true

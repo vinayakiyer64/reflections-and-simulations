@@ -1,0 +1,12 @@
+---
+title: "Hello, World"
+date: 2025-11-23
+categories: [Intro]
+---
+Welcome! This blog will cover **Economics**, **ML**, and occasional reflections.
+
+Here’s an inline equation: $E[Y|X=x]$ and a code block:
+
+```python
+import numpy as np
+np.mean([1,2,3])

@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Reflections and Simulations",
     "section": "",
-    "text": "About this blog"
+    "text": "This is just a blog on random topics that I find interesting and have some thoughts on. This is also a way for me to get back into the habit of thinking harder and writing."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -23,8 +23,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "reflections-and-simulations",
+    "title": "Reflections and Simulations",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nNov 23, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 20, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Hello, World\n\n\n\nIntro\n\n\n\n\n\n\n\n\n\nNov 23, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 20, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/hello-world/index.html",
+    "href": "posts/hello-world/index.html",
+    "title": "Hello, World",
+    "section": "",
+    "text": "Welcome! This blog will cover Economics, ML, and occasional reflections.\nHere’s an inline equation: \\(E[Y|X=x]\\) and a code block:\n```python import numpy as np np.mean([1,2,3])"
   }
 ]

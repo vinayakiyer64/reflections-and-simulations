@@ -1,23 +1,26 @@
 project:
   type: website
-
 website:
-  description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "reflections-and-simulations"
+  title: "Reflections and Simulations"
+  description: "Notes on Economics, ML, and Reflections"
+  site-url: https://vinayakiyer64.github.io/reflections-and-simulations/ 
+  open-graph: true
+  twitter-card: true
   navbar:
     right:
-      - about.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Posts"
+        href: index.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
+    toc: true
+    feed: true
+    feed-url: index.xml
     css: styles.css
-
-
 
