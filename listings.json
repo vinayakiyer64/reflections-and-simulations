@@ -1,0 +1,9 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/hello-world/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]
