@@ -12,7 +12,8 @@
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Sun, 23 Nov 2025 05:00:00 GMT</lastBuildDate>
 <item>
-  <title>Hello, World</title>
+  <title>Welcome!</title>
+  <dc:creator>Vinayak Iyer</dc:creator>
   <link>https://vinayakiyer64.github.io/reflections-and-simulations/posts/hello-world/</link>
   <description><![CDATA[ 
 
@@ -20,37 +21,38 @@
 
 
 
-<p>Welcome! This blog will cover <strong>Economics</strong>, <strong>ML</strong>, and occasional reflections.</p>
-<p>Here’s an inline equation: <img src="https://latex.codecogs.com/png.latex?E%5BY%7CX=x%5D"> and a code block:</p>
-<p>```python import numpy as np np.mean([1,2,3])</p>
+<p>Welcome! This blog will cover <strong>Economics</strong>, <strong>Chess</strong>, <strong>Machine Learning</strong>, and occasional reflections on a host of other topics that interest me. Economics, Chess and ML are broadly the topics that I find most interesting currently, but that’s very much subject to change.</p>
+<section id="why-im-writing" class="level2">
+<h2 class="anchored" data-anchor-id="why-im-writing">Why I’m Writing</h2>
+<p>I’ve lately been feeling the urge to write, so I’m carving out time to put my thoughts down. Hopefully, this habit will last a while. I’m aiming to achieve a few things through this blog:</p>
+<ol type="1">
+<li><strong>Thinking harder and deeper</strong>: Get back into learning and thinking harder about a topic</li>
+<li><strong>Leverage AI</strong>: Use this as an opportunity to get better at using AI tools for coding, research and writing.</li>
+<li><strong>Digital Minimalism</strong>: Divert attention from doomscrolling to something more productive and cathartic.</li>
+</ol>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This blog is built with <a href="https://quarto.org/">Quarto</a>, which allows me to mix code, prose, and math seamlessly.</p>
+</div>
+</div>
 
 
+</section>
 
  ]]></description>
   <category>Intro</category>
+  <category>General</category>
   <guid>https://vinayakiyer64.github.io/reflections-and-simulations/posts/hello-world/</guid>
   <pubDate>Sun, 23 Nov 2025 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://vinayakiyer64.github.io/reflections-and-simulations/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://vinayakiyer64.github.io/reflections-and-simulations/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://vinayakiyer64.github.io/reflections-and-simulations/posts/welcome/</guid>
-  <pubDate>Thu, 20 Nov 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://vinayakiyer64.github.io/reflections-and-simulations/posts/hello-world/thumbnail.png" medium="image" type="image/png" height="72" width="144"/>
 </item>
 </channel>
 </rss>

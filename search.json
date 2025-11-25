@@ -7,24 +7,24 @@
     "text": "This is just a blog on random topics that I find interesting and have some thoughts on. This is also a way for me to get back into the habit of thinking harder and writing."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
     "objectID": "posts/hello-world/index.html",
     "href": "posts/hello-world/index.html",
-    "title": "Hello, World",
+    "title": "Welcome!",
     "section": "",
-    "text": "Welcome! This blog will cover Economics, ML, and occasional reflections.\nHere’s an inline equation: \\(E[Y|X=x]\\) and a code block:\n```python import numpy as np np.mean([1,2,3])"
+    "text": "Welcome! This blog will cover Economics, Chess, Machine Learning, and occasional reflections on a host of other topics that interest me. Economics, Chess and ML are broadly the topics that I find most interesting currently, but that’s very much subject to change."
+  },
+  {
+    "objectID": "posts/hello-world/index.html#why-im-writing",
+    "href": "posts/hello-world/index.html#why-im-writing",
+    "title": "Welcome!",
+    "section": "Why I’m Writing",
+    "text": "Why I’m Writing\nI’ve lately been feeling the urge to write, so I’m carving out time to put my thoughts down. Hopefully, this habit will last a while. I’m aiming to achieve a few things through this blog:\n\nThinking harder and deeper: Get back into learning and thinking harder about a topic\nLeverage AI: Use this as an opportunity to get better at using AI tools for coding, research and writing.\nDigital Minimalism: Divert attention from doomscrolling to something more productive and cathartic.\n\n\n\n\n\n\n\nNote\n\n\n\nThis blog is built with Quarto, which allows me to mix code, prose, and math seamlessly."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Reflections and Simulations",
     "section": "",
-    "text": "Hello, World\n\n\n\nIntro\n\n\n\n\n\n\n\n\n\nNov 23, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 20, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Welcome!\n\n\n\nIntro\n\nGeneral\n\n\n\nWhy I want to write on Economics, Chess, and Machine Learning.\n\n\n\n\n\nNov 23, 2025\n\n\nVinayak Iyer\n\n\n\n\n\nNo matching items"
   }
 ]
